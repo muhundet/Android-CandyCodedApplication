@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Task 1 - Show Store Information Activity">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Android-CandyCodedApplication.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
@@ -140,6 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task 1 - Show Store Information Activity">
+      <created>1601029613200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601029613200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,13 +159,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="551" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1600963044280" />
-    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1601029031076">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1601031536667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601029031076" />
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601031536667" />
     <state x="469" y="120" key="FileChooserDialogImpl" timestamp="1601026518915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="469" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601026518915" />
+    <state x="421" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1601193396183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="144" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601193396183" />
   </component>
 </project>
