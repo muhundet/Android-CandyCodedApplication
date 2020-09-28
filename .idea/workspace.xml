@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601288298542</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task 1 - Show Store Information Activity">
+      <created>1601288642525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601288642525</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,14 +196,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Task 1 - Show Store Information Activity" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="494" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1601288801787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601288801787" />
     <state x="551" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600963044280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="551" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1600963044280" />
-    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1601288295116">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1601288637153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601288295116" />
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601288637153" />
     <state x="469" y="120" key="FileChooserDialogImpl" timestamp="1601026518915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
